@@ -1,4 +1,5 @@
 # Weather API Project
+# Make it easy
 import requests
 
 def get_weather(city_name):
