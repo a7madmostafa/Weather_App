@@ -1,0 +1,8 @@
+* Git: Version Control System  (Distributed, free, open source)
+* Github: Web Based hosted git System
+* Repository: A place where you can store your code files (Local (My computer), Remote (Github))
+* git clone: To clone (take a copy from) a repository
+* git init: To create a new repository on Local
+* git status: To know the status of your repository
+* git add: To add your files to your repository (changes need to be committed)
+* git commit: To commit your changes to your repository
