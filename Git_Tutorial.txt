@@ -6,3 +6,4 @@
 * git status: To know the status of your repository
 * git add: To add your files to your repository (changes need to be committed)
 * git commit: To commit your changes to your repository
+* git push: To push from local to remote
